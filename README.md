@@ -1,4 +1,4 @@
-# Math-Cheat-Sheets
+# Math Cheat Sheets
 
 Cheat sheets for various math classes
 
